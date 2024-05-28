@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/realmadrid/static/css/main.bb201408.css",
+    "main.js": "/realmadrid/static/js/main.62c9376d.js",
+    "static/js/453.d312ba84.chunk.js": "/realmadrid/static/js/453.d312ba84.chunk.js",
+    "static/media/real9.png": "/realmadrid/static/media/real9.2db9b35ae4ffa37d360b.png",
+    "index.html": "/realmadrid/index.html",
+    "main.bb201408.css.map": "/realmadrid/static/css/main.bb201408.css.map",
+    "main.62c9376d.js.map": "/realmadrid/static/js/main.62c9376d.js.map",
+    "453.d312ba84.chunk.js.map": "/realmadrid/static/js/453.d312ba84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb201408.css",
+    "static/js/main.62c9376d.js"
+  ]
+}
