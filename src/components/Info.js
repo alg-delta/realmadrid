@@ -55,9 +55,9 @@ export default function Info() {
       <p>
         <h2>Форма клубу на даний час(Домашня і 2 виїзні)</h2>
       </p>
-      <img src="1kit.jpg" width="200" className="rm-kit" />
-      <img src="2kit.jpg" width="200" className="rm-kit" />
-      <img src="3kit.jpg" width="200" className="rm-kit" />
+      <img alt="img" src="1kit.jpg" width="200" className="rm-kit" />
+      <img alt="img" src="2kit.jpg" width="200" className="rm-kit" />
+      <img alt="img" src="3kit.jpg" width="200" className="rm-kit" />
       <br />
       <br />
       <br />
@@ -66,7 +66,7 @@ export default function Info() {
       <p>
         <h3>Состав Реал Мадриду 2023-2024</h3>
       </p>
-      <img src="sostav.jpg" width="300" className="rm-sostav" />
+      <img alt="img" src="sostav.jpg" width="300" className="rm-sostav" />
       <br />
       <br />
       <br />
@@ -82,14 +82,21 @@ export default function Info() {
       <p>
         <h3>Історія емблем клубу(1902-2001)</h3>
       </p>
-      <img src="Real_emblem.png" width="100" className="rm-emblem" />
-      <img src="Real_emblem_4.png" width="100" className="rm-emblem" />
+      <img alt="img" src="Real_emblem.png" width="100" className="rm-emblem" />
       <img
+        alt="img"
+        src="Real_emblem_4.png"
+        width="100"
+        className="rm-emblem"
+      />
+      <img
+        alt="img"
         src="Escudo_Real_madrid_1931.png"
         width="100"
         className="rm-emblem"
       />
       <img
+        alt="img"
         src="Escudo_real_madrid_1941b.png"
         width="100"
         className="rm-emblem"

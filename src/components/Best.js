@@ -7,7 +7,7 @@ export default function Best() {
       <p>
         <h2>Найкращі гравці Реал Мадриду</h2>
       </p>
-      <img src="29.jpg" width="400" className="crish" />
+      <img alt="img" src="29.jpg" width="400" className="crish" />
       <p className="crish2">
         <h4>Cristianoo Ronaldoo</h4>
       </p>
@@ -26,7 +26,7 @@ export default function Best() {
       <br />
       <br />
       <br />
-      <img src="30.jpg" width="400" className="crish" />
+      <img alt="img" src="30.jpg" width="400" className="crish" />
       <p className="crish2">
         <h4>Sergio Ramos</h4>
       </p>
@@ -45,7 +45,7 @@ export default function Best() {
       <br />
       <br />
       <br />
-      <img src="31.jpg" width="400" className="crish" />
+      <img alt="img" src="31.jpg" width="400" className="crish" />
       <p className="crish2">
         <h4>Karim Benzema</h4>
       </p>
@@ -64,7 +64,7 @@ export default function Best() {
       <br />
       <br />
       <br />
-      <img src="32.jpg" width="400" className="crish" />
+      <img alt="img" src="32.jpg" width="400" className="crish" />
       <p className="crish2">
         <h4>Raul Gonzales</h4>
       </p>
@@ -83,7 +83,7 @@ export default function Best() {
       <br />
       <br />
       <br />
-      <img src="33.jpg" width="400" className="crish" />
+      <img alt="img" src="33.jpg" width="400" className="crish" />
       <p className="crish2">
         <h4>Luka Modric</h4>
       </p>
@@ -104,7 +104,7 @@ export default function Best() {
       <br />
       <br />
       <br />
-      <img src="34.jpg" width="400" className="crish" />
+      <img alt="img" src="34.jpg" width="400" className="crish" />
       <p className="crish2">
         <h4>Gareth Bale</h4>
       </p>
@@ -123,7 +123,7 @@ export default function Best() {
       <br />
       <br />
       <br />
-      <img src="522.jpg" width="400" className="crish" />
+      <img alt="img" src="522.jpg" width="400" className="crish" />
       <p className="crish2">
         <h4>Toni Kroos</h4>
       </p>

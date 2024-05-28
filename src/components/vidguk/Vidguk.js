@@ -25,7 +25,7 @@ export default function Vidguk() {
     <section>
       <h2 className="vidguk-title">Трофеї «Реала»</h2>
       <div className="vidguk">
-        <img src={review.image} className="vidguk-img" />
+        <img alt="img" src={review.image} className="vidguk-img" />
         <div>
           <h3 className="vidguk-name">{review.name}</h3>
         </div>
