@@ -1,0 +1,64 @@
+.vidguk-title {
+    text-align: center;
+    font-family: 'Times New Roman';
+}
+
+.vidguk {
+    text-align: center;
+    font-family:'Times New Roman';
+    background: rgb(13, 9, 92);
+    background: linear-gradient(90deg, rgba(13, 9, 92) 0%, rgba(32,165,179,1) 35%, rgba(0,212,255,1) 100%);
+    width: 80%;
+    margin: 40px auto;
+    padding: 20px;
+    border-radius: 9px;
+    box-shadow: 0 0 10px 0 black;
+}
+
+.vidguk-name {
+    border: solid 2px;
+    box-shadow: 0 0 10px 0 black;
+    width: 50%;
+    margin: 40px auto;
+    color: rgb(7, 6, 66);
+}
+
+.vidguk-job {
+    border: solid 2px;
+    box-shadow: 0 0 10px 0 black;
+    width: 50%;
+    margin: 30px auto;
+    color: rgb(7, 6, 66)
+}
+
+.vidguk-text {
+    border: solid 2px;
+    box-shadow: 0 0 10px 0 black;
+    width: 50%;
+    margin: 40px auto;
+    color: rgb(7, 6, 66)
+}
+
+.vidguk-img {
+    width: 230px;
+    height: 230px;
+    border: 4px solid rgb(7, 6, 66);
+    box-shadow: 0 0 10px 0 rgb(7, 6, 66);
+}
+
+.vidguk-btn {
+    padding: 5px 15px;
+    background-color: brown;
+    border: 1px solid rgb(11, 91, 107);
+    margin: 5px;
+    border-radius: 9px;
+    color: rgb(128, 129, 131);
+    font-weight: 800;
+    transition: all 0.3s;
+}
+
+.vidguk-btn:hover {
+    background: linear-gradient(90deg, rgba(13, 9, 92) 0%, rgba(32,165,179,1) 35%, rgba(0,212,255,1) 100%);
+    color: white;
+    transform: scale(1.075)
+}
