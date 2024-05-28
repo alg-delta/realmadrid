@@ -4,14 +4,13 @@ import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 import { NavLink } from "react-router-dom";
 
-export default function Header(props) {
-  const { count } = props;
+export default function Header() {
   return (
     <div>
       <Navbar bg="secondary" data-bs-theme="light">
         <Container>
           <Navbar.Brand href="#home">
-            <img src="real.png" width="50" className="rm" />
+            <img alt="img" src="real.png" width="50" className="rm" />
             <h4>Real Madrid</h4>
           </Navbar.Brand>
           <Nav className="me-auto">
